@@ -1,4 +1,4 @@
-This is King Pong
+This is the new and improved King Pong
 
 ![img1]({{ "images/WCM0008.png"}})
 
