@@ -1,6 +1,8 @@
 This is the new and improved King Pong
 
-![img1]({{ "images/WCM0008.png"}})
+![first image]({{ "images/WCM0008.png"}})
 
-![ing2]({{ "images/WCM0009.png"}})
+![2nd image]({{ "images/WCM0009.png"}})
+
+[meeting notes](meeting/today.md)
 
