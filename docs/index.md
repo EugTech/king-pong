@@ -4,5 +4,5 @@ This is the new and improved King Pong
 
 ![2nd image]({{ "images/WCM0009.png"}})
 
-[meeting notes](meeting/today.md)
+[meeting notes](meetings/today.html)
 
