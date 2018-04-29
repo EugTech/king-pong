@@ -1,5 +1,7 @@
 This is the new and improved King Pong
 
+![render to scale]({{ "images/20180425_224218.jpg"}})
+
 ![first image]({{ "images/WCM0008.png"}})
 
 ![2nd image]({{ "images/WCM0009.png"}})
